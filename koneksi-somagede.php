@@ -1,9 +1,9 @@
 <?php
 require('routeros_api.class.php');
 
-$ip = '192.168.46.80';
+$ip = '12.13.14.6';
 $port = 8788;
-$user = 'server_sidayu';
+$user = 'server_somagede';
 $pass = 'kinara.network';
 
 $mikrotik = new RouterosAPI();
